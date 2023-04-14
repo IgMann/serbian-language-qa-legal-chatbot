@@ -1,0 +1,6 @@
+question,obtained answer,real answer,confidence
+Za koga važi Krivično zakonodavstvo Republike Srbije na njenoj teritoriji?,,Za svakog.,0.09809565544128418
+"Kako se odgovornost pravnih lica za krivična dela, kao i sankcije za pravna lica uređuju?",posebnim zakonom,Posebnim zakonom.,0.9999996423721313
+"Ko obaveštava predsednika suda, odnosno ovlašćenog sudiju, javnog tužioca i policiju kada je osuđeni stupio na izdržavanje kazne?",Posebno,Posebno odeljenje.,0.9999939203262329
+Kog tipa zavoda su specijalna zatvorska bolnica i kazneno-popravni zavod za maloletnike?,zatvorenog,Zatvorenog tipa.,0.9999999403953552
+U kom roku javni tužilac dostavlja odluku o odlaganju krivičnog gonjenja sa podacima o ličnosti osumnjičenog nadležnoj povereničkoj kancelariji?,od tri dana od dana donošenja odluke,U roku od tri dana.,0.9999997615814209
