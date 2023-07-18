@@ -1,3 +1,3 @@
 # QA chatbot for Serbian language, specialized for legal questions
 
-Student project within master studies in the AI & ML master's program, University of Novi Sad.
+Student project within the master's study in the AI ​​& ML master's program at the University of Novi Sad.
